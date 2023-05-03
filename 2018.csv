@@ -1,0 +1,55 @@
+﻿"Persons living in acceptable housing, by tenure including first-time homebuyer and social and affordable housing status, by province 1 2 3 4 5 6"
+"Frequency: Occasional"
+"Table: 46-10-0071-01"
+"Release date: 2023-03-31"
+"Geography: Canada, Geographical region of Canada, Province or territory"
+""
+""
+
+,,"2018",,,,,,
+,"Tenure including first-time homebuyer and social and affordable housing status 4 5 6","Total, by tenure","Owner household","Owner household, first-time homebuyer","Owner household, not first-time homebuyer","Renter household","Renter not in social and affordable housing","Renter in social and affordable housing"
+,"Statistics","Percentage of persons","Percentage of persons","Percentage of persons","Percentage of persons","Percentage of persons","Percentage of persons","Percentage of persons"
+"Acceptable housing 2","Geography"
+,,"Percent",,,,,,
+"Does not live in acceptable housing","Canada (excluding territories)","30.0","24.0","34.0","22.0","46.0","46.0","45.0"
+,"Atlantic Region","22.0","17.2","18.0","17.1","41.0","41.0","41.0"
+,"Newfoundland and Labrador","19.0","14.5","24.0","13.5","40.0","40.0","41.0"
+,"Prince Edward Island","25.0","20.0","24.0","19.4","39.0","39.0","37.0"
+,"Nova Scotia","25.0","19.2","17.0","19.5","44.0","44.0","47.0"
+,"New Brunswick","20.0","16.1","13.4","16.4","37.0","37.0","35.0"
+,"Quebec","23.0","16.4","23.0","15.4","38.0","38.0","37.0"
+,"Ontario","33.0","27.0","41.0","25.0","52.0","54.0","43.0"
+,"Prairies Region","29.0","24.0","37.0","22.0","47.0","46.0","54.0"
+,"Manitoba","30.0","24.0","39.0","21.0","52.0","53.0","47.0"
+,"Saskatchewan","29.0","24.0","36.0","21.0","47.0","45.0","55.0"
+,"Alberta","29.0","25.0","37.0","22.0","45.0","44.0","58.0"
+,"British Columbia","35.0","29.0","35.0","28.0","48.0","47.0","53.0"
+"Lives in acceptable housing","Canada (excluding territories)","70.0","76.0","66.0","78.0","54.0","54.0","55.0"
+,"Atlantic Region","78.0","82.8","82.0","82.9","59.0","59.0","59.0"
+,"Newfoundland and Labrador","81.0","85.5","76.0","86.5","60.0","60.0","59.0"
+,"Prince Edward Island","75.0","80.0","76.0","80.6","61.0","61.0","63.0"
+,"Nova Scotia","75.0","80.8","83.0","80.5","56.0","56.0","53.0"
+,"New Brunswick","80.0","83.9","86.6","83.6","63.0","63.0","65.0"
+,"Quebec","77.0","83.6","77.0","84.6","62.0","62.0","63.0"
+,"Ontario","67.0","73.0","59.0","75.0","48.0","46.0","57.0"
+,"Prairies Region","71.0","76.0","63.0","78.0","53.0","54.0","46.0"
+,"Manitoba","70.0","76.0","61.0","79.0","48.0","47.0","53.0"
+,"Saskatchewan","71.0","76.0","64.0","79.0","53.0","55.0","45.0"
+,"Alberta","71.0","75.0","63.0","78.0","55.0","56.0","42.0"
+,"British Columbia","65.0","71.0","65.0","72.0","52.0","53.0","47.0"
+
+
+
+
+Footnotes:
+1,"Source: Statistics Canada, Canadian Housing Survey."
+2,"Acceptable housing refers to whether a private household’s housing meets each of the three standards established by the Canada Mortgage and Housing Corporation (CMHC) for affordability, suitability and condition of dwelling. Affordable housing has shelter costs equal to less than 30% of total before-tax household income. Suitable housing has enough bedrooms for the size and composition of resident households according to the National Occupancy Standard (NOS), conceived by the CMHC and provincial and territorial representatives. Housing meets the condition of dwelling standard when its residents report it as not requiring any major repairs. Housing that is affordable, suitable in size, and not in need of major repairs, is considered to be acceptable."
+3,"The confidence interval illustrates the degree of variability associated with an estimate. A wider confidence interval indicates higher variability, meaning that the estimate should be interpreted with due caution. The 95% confidence interval of an estimate means that if the survey were repeated over and over, the confidence interval would cover the true population value 95% of the time (or 19 times out of 20). Bootstrapping techniques were used to produce the 95% confidence intervals."
+4,"“Tenure” refers to whether the person’s household owns or rents their private dwelling."
+5,"Households are classified as first-time homebuyers if households own their current dwelling and: either the reference person indicated on the survey that they moved within the last five years (and previously rented or lived rent-free), or the reference person or their spouse (at the time of their home purchase) made use of first-time homebuyer tax incentives in the four calendar years preceding the reference year based on linked administrative data. To be eligible for tax incentives for first-time homebuyers, the homebuyer must not have lived in another home they or their current spouse or common-law partner owned during the preceding four years and must intend to occupy their new home within one year of purchasing it."
+6,"Social and affordable housing refers to “non-market rental housing” (for example, where housing allocation and rent-setting mechanisms are not entirely dictated by the law of supply and demand)."
+
+
+
+"How to cite: Statistics Canada. Table 46-10-0071-01  Persons living in acceptable housing, by tenure including first-time homebuyer and social and affordable housing status, by province"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=4610007101
